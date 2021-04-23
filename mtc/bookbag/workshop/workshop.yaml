@@ -14,5 +14,4 @@ modules:
     - Debug
     - exercises/debug/misconfig
     - exercises/debug/stage-pods
-    - exercises/debug/gvk
     - Conclusion
